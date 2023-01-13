@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing B.Tech CSE from Indian Institute of Information Technology,Kottayam,Kerala.
 - 💞️ I’m looking to collaborate on Web-developments repos.
 - 📫 How to reach me email:adityashitale4@gmail.com
-- 🗒️Resume: https://drive.google.com/file/d/1mTl5d39cg0njSroEPar7_zDRs-cuV6t_/view?usp=share_link
+- 🗒️Resume: [Click Here](https://drive.google.com/file/d/1mTl5d39cg0njSroEPar7_zDRs-cuV6t_/view?usp=share_link)
 
 <!---
 Aditya-Shitale/Aditya-Shitale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
