@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 ### 🤝🏻 Connect with Me  
 
 <p align>
-<a href="linkedin.com/in/aditya-shitale-664991214/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="linkedin.com/in/aditya-shitale-664991214/"><img src="https://img.shields.io/badge/-Aditya%20Shitale-05122A?style=flat&logo=linkedin"/></a>
 <a href="mailto:sanjayshitale20bcs82@iiitkottayam.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
