@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-Shitale.
 - 👀 I’m interested in coding, Full-stack development.
 - 🌱 I'm currently learning Algorithms and android development.
-- 🌱 I’m completed my B.Tech (CSE) degree from Indian Institute of Information Technology,Kottayam,Kerala.
+- 🌱 I have completed my B.Tech (CSE) degree from Indian Institute of Information Technology,Kottayam,Kerala.
 - 💞️ I’m looking to collaborate on Web-developments repos.
 - 📫 How to reach me email:adityashitale4@gmail.com
 - 🗒️Resume: [Click Here](https://drive.google.com/file/d/1mTl5d39cg0njSroEPar7_zDRs-cuV6t_/view?usp=share_link)
